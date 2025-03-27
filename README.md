@@ -8,6 +8,7 @@ This project analyzes employability trends in the IT Management sector using dat
 - [Installation](#Installation)
 - [Usage](#usage)
 - [Features](#features)
+- [Dashboard Preview](#Dashboard-Preview)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -41,5 +42,36 @@ python -m venv venv source venv/bin/activate
 ```
 pip install -r requirements.txt
 ```
+## 🚀 Usage
+
+To run the analysis:
+```
+python analyze_data.py --input Updated_IT_Management_Dataset.csv
+```
+To generate visualizations:
+
+```
+python visualize.py --output charts/
+```
+
+## 🔥 Features
+- Data Cleaning & Preprocessing
+
+- Exploratory Data Analysis (EDA)
+
+- Machine Learning Models for Employability Prediction
+
+- Salary & Job Trends Analysis
+
+- Interactive Power BI Dashboard
+
 ## 📊Dashboard Preview
  [NUTRIX](https://nutrixcorp.com/)
+
+## 🤝 Contributing
+
+Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to modify.
+
+## 📜 License
+
+This project is licensed under the MIT License. See LICENSE for details.
