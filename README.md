@@ -5,8 +5,8 @@ This project analyzes employability trends in the IT Management sector using dat
 
 ## 📂Table of Contents 
 - [Dataset Overview](#Dataset-Overview)
-- [Installation](#Installation)
-- [Usage](#usage)
+- [Installation](#Installation-)
+- [Usage](#usage-)
 - [Features](#features)
 - [Contributing](#contributing)
 - [License](#license)
@@ -22,7 +22,7 @@ The dataset contains information on various factors influencing employability in
 
 - Salary Trends: Comparative analysis of salary distributions.
 
-## 🛠 Installation
+## 🛠-Installation
 To set up the project locally:
 
 1. Clone the repository:        
@@ -41,5 +41,5 @@ python -m venv venv source venv/bin/activate
 ```
 pip install -r requirements.txt
 ```
-## 📊 Dashboard Preview
+## 📊-Dashboard Preview
  [NUTRIX](https://nutrixcorp.com/)
