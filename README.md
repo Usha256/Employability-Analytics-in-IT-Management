@@ -4,7 +4,7 @@
 This project analyzes employability trends in the IT Management sector using data analytics. By leveraging various employment-related factors, we aim to provide insights into job market trends, key employability skills, and hiring patterns.
 
 ## 📂Table of Contents 
-- [Dataset Overview](#DatasetOverview)
+- [Dataset Overview](#Dataset-Overview)
 - [Installation](#Installation)
 - [Usage](#usage)
 - [Features](#features)
@@ -42,4 +42,4 @@ python -m venv venv source venv/bin/activate
 pip install -r requirements.txt
 ```
 ## 📊 Dashboard Preview
-
+ [NUTRIX](https://nutrixcorp.com/)
