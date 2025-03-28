@@ -66,7 +66,12 @@ python visualize.py --output charts/
 - Interactive Power BI Dashboard
 
 ## 📊Dashboard Preview
- [NUTRIX](https://nutrixcorp.com/)
+
+The Power BI dashboard offers key insights into IT Management employability trends. It highlights in-demand skills, hiring patterns, salary distributions, and job market trends. Users can interact with filters to explore data by job role, experience level, and location, enabling informed decision-making for recruiters and job seekers.
+
+Check out the interactive Power BI dashboard here:
+
+[NUTRIX](https://nutrixcorp.com/)
 
 ## 🤝 Contributing
 
