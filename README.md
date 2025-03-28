@@ -72,6 +72,7 @@ The Power BI dashboard offers key insights into IT Management employability tren
 Check out the interactive Power BI dashboard here:
 
 [NUTRIX](https://nutrixcorp.com/)
+![image alt]( )
 
 ## 🤝 Contributing
 
